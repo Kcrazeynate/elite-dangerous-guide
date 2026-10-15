@@ -1,0 +1,8 @@
+{
+  "schema_version": "hatch.probe_ui_session.v1",
+  "socket": "/home/hatch/workspace/ts-spaces/elite-dangerous-combined-guide/.harness/probe-ui/sock",
+  "slug": "elite-dangerous-combined-guide",
+  "url": "https://artifact-capture.invalid/spaces/v2/hatch-audit-ef3920f3-3ba3-435f-a153-bbf954df2201/",
+  "audit_session_id": "25ecb1c6-29c6-4301-9218-f6d96630451f",
+  "pid": 2232
+}
